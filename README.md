@@ -2,7 +2,7 @@
 
 > Materi: Graph  
 > Pengajar: Asisten Praktikum 2021
-## IRFAN KAMA - 140810200032
+## IRFAN KAMAL - 140810200032
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
